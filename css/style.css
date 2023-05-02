@@ -688,6 +688,15 @@ video {
   line-height: 1.25rem;
 }
 
+.text-xl{
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.text-\[22px\]{
+  font-size: 22px;
+}
+
 .text-\[\#00fff7\]{
   --tw-text-opacity: 1;
   color: rgb(0 255 247 / var(--tw-text-opacity));
