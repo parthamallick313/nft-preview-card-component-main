@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/parthamallick313/nft-preview-card-component-main)
+- Live Site URL: [Netlify](https://nftpreviewcard-fmio.netlify.app/)
 
 ## My process
 
